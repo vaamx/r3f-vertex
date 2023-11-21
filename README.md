@@ -8,20 +8,30 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 - }
 
-Resources:
-React Three Fiber: Three.js Renderer
-Drei: React Three Fiber Helpers
-Three.js: 3D Engine
-GLTFJSX: Automatic conversion from GLTF to JSX component
-GSAP: GreenSock Animation Library
-Lenis: Smooth Scroll
-Vite: Static Web Server
-Flowboard Cloneable: Free Webflow project that uses this project
-CodeSandbox: Online Prototyping Container (optional)
-Installation
+
+### Resources:
+
+- [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/): Three.js Renderer
+- [Drei](https://github.com/pmndrs/drei): React Three Fiber Helpers
+- [Three.js](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene): 3D Engine
+- [GLTFJSX](https://github.com/pmndrs/gltfjsx): Automatic conversion from GLTF to JSX component
+- [GSAP](https://greensock.com/gsap/): GreenSock Animation Library
+- [Lenis](https://lenis.studiofreight.com/): Smooth Scroll
+- [Vite](https://vitejs.dev/guide/): Static Web Server
+- [Flowboard Cloneable](https://webflow.com/made-in-webflow/website/flowboard-site): Free Webflow project that uses this project
+- [CodeSandbox](https://codesandbox.io/docs/configuration): Online Prototyping Container (optional)
+
+### Installation
+
+```
 npm install
-Scripts
+```
+
+### Scripts
+
+```
 npm run dev
 npm run build
 npm run preview
 npm run sandbox
+```
